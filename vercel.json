@@ -1,0 +1,7 @@
+{
+    "version": 2,
+    "routes": [
+      { "src": "/check-password", "dest": "/api/check-password.js" }
+    ]
+  }
+  
